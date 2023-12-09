@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "1045360241178",
+        "project_id": "fir-1-a92f6",
+        "storage_bucket": "fir-1-a92f6.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1045360241178:android:e1c8746661e98323fe7fa3",
+            "android_client_info": {
+                "package_name": "com.digitech.firebase1"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "1045360241178-elbn56dtajolf09stc8l05au21kd3gsi.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyATbIWP3NChWvYQQGFzzgLX60QMJ6IlBqE"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "1045360241178-elbn56dtajolf09stc8l05au21kd3gsi.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
